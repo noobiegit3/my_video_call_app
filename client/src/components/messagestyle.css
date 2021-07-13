@@ -1,0 +1,35 @@
+#messages {
+  margin:15px;
+  height: 250px;
+  background-color: rgb(234, 238, 182);
+  font-size: 12px;
+  padding: 15px;
+  max-width: 550px;
+}
+  
+input {
+  margin:15px;
+  width: 100%;
+}
+  
+#submit {
+  margin:0;
+  width: 100%;
+}
+
+.column {
+    float: left;
+   
+}
+  
+.left, .middle {
+  margin:5px;
+  width: 25%;
+  color: blue;
+}
+  
+.right {
+  margin:5px;
+  width: 50%;
+}
+
